@@ -15,7 +15,7 @@ You might make some mistakes, so use 'u' to undo changes, and ctrl + r to redo.
 
 # Type 'u' to undo that last change you did.
 
-The 'd' command requires another command to be combined with it in order for it to functon. Some common combos:
+The 'd' command requires another command to be combined with it in order for it to function. Some common combos:
 
 * dw
 * dd
