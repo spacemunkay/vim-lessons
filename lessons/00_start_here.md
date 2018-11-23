@@ -1,4 +1,4 @@
-# 00_start_here
+# 00_start_here.md
 
 IT'S A TRAP!
 

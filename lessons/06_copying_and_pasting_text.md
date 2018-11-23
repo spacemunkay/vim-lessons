@@ -32,4 +32,4 @@ Like the d command, you can combo the y command to avoid entering the visual mod
 
 # Put your cursor at the beginning of a word on this line and type yw and then p.
 
-# Save the file, then type the following to start the next lesson: :e 07_something.md
+# Save the file, then type the following to start the next lesson: :e 07_searching_and_replacing.md

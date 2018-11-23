@@ -1,4 +1,4 @@
-# 05_deleting_text
+# 05_deleting_text.md
 
 ## NOTE: In case of emergency, just hit ESC and type :q!
 
